@@ -1,0 +1,97 @@
+{"recipe": {
+  "cook_time": "10 minutes",
+  "instructions": [
+    "Prepare the Dry Ingredients: In a medium bowl, whisk together the flour, ginger, cinnamon, cloves, nutmeg, salt, and baking soda. Set aside.",
+    "Mix the Wet Ingredients: In a large mixing bowl, beat the softened butter and brown sugar together until creamy and light in color (about 2-3 minutes). Add the egg, molasses, and vanilla extract, and continue beating until smooth.",
+    "Combine Wet and Dry Ingredients: Gradually add the dry flour mixture to the wet ingredients, mixing until combined. You may need to use your hands to bring the dough together as it gets thick. Once fully combined, divide the dough into two portions, wrap each in plastic wrap, and chill in the refrigerator for at least 1 hour (or up to 24 hours). Chilling the dough makes it easier to roll out.",
+    "Roll Out the Dough: On a lightly floured surface, roll out the dough to about 1/4 inch thickness. Use cookie cutters to cut out gingerbread men, stars, or any other shapes you prefer.",
+    "Preheat your oven to 350°F (175°C).",
+    "Place the cut-out dough on a baking sheet lined with parchment paper, spacing them about 1 inch apart. Bake for 8-10 minutes, or until the edges of the cookies are slightly firm and golden brown. Let the cookies cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely.",
+    "Optional Decorations:      Once the cookies are fully cooled, you can decorate them with icing, sprinkles, or candy. To make simple icing, mix powdered sugar with a little water or milk to your desired consistency.",
+    "Enjoy your Gingerbread Cookies!  These cookies are perfect for the holiday season or anytime you crave something warm and spicy. Enjoy them with a cup of tea or hot cocoa!"
+  ],
+  "servings": 24,
+  "prep_time": "80 minutes",
+  "name": "Ginger's Gingerbread Cookies",
+  "ingredients": [
+    {
+      "calories_per_cup": 0,
+      "unit": "CUP",
+      "quantity": 3,
+      "name": "All Purpose Flour",
+      "calories_per_unit": 0
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "TBSP",
+      "quantity": 1.5,
+      "name": "Ground ginger",
+      "calories_per_unit": 0
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "TSP",
+      "quantity": 1,
+      "name": "Ground cinnamon",
+      "calories_per_unit": 0
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "PCS",
+      "quantity": 3.5,
+      "name": "Ground Cloves",
+      "calories_per_unit": 0
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "TSP",
+      "quantity": 0.5,
+      "name": "Ground nutmeg",
+      "calories_per_unit": 0
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "TSP",
+      "quantity": 0.5,
+      "name": "Salt",
+      "calories_per_unit": 0
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "TSP",
+      "quantity": 0.5,
+      "name": "Baking Soda",
+      "calories_per_unit": 0
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "CUP",
+      "quantity": 3.25,
+      "name": "Unsalted Butter",
+      "calories_per_unit": 0,
+      "preparation": "Softened"
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "CUP",
+      "quantity": 0.5,
+      "name": "Brown Sugar",
+      "calories_per_unit": 0,
+      "preparation": "packed"
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "G",
+      "quantity": 1,
+      "name": "Egg",
+      "calories_per_unit": 0
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "PCS",
+      "quantity": 0.5,
+      "name": "Molasses",
+      "calories_per_unit": 0
+    }
+  ]
+}}

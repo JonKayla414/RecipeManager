@@ -1,0 +1,99 @@
+{
+  "recipe": {
+    "name": "Patty's Krabby Patty",
+    "cook_time": "10 minutes",
+    "prep_time": "20 minutes",
+    "servings": 4,
+    "instructions": [
+      "In a bowl, combine ground beef, salt, and pepper. Form into patties.",
+      "Heat a grill or frying pan over medium heat and cook the patties for about 5 minutes on each side or until fully cooked.",
+      "Toast the burger buns on the grill for 1-2 minutes until golden brown.",
+      "Spread a generous amount of secret sauce on the bottom half of each bun.",
+      "Place the cooked patty on top of the sauce.",
+      "Layer with lettuce, tomato, pickles, and onions.",
+      "Top with the other half of the bun and serve with fries."
+    ],
+    "ingredients": [
+      {
+        "unit": "kg",
+        "quantity": "0.5",
+        "name": "Ground beef",
+        "preparation": "for patties",
+        "calories_per_unit": 2500.0,
+        "calories_per_cup": 2500.0
+      },
+      {
+        "unit": "g",
+        "quantity": "1",
+        "name": "Salt",
+        "preparation": "to taste",
+        "calories_per_unit": 0.0,
+        "calories_per_cup": 0.0
+      },
+      {
+        "unit": "g",
+        "quantity": "1",
+        "name": "Black pepper",
+        "preparation": "to taste",
+        "calories_per_unit": 5.7,
+        "calories_per_cup": 91.2
+      },
+      {
+        "unit": "pcs",
+        "quantity": "4",
+        "name": "Burger buns",
+        "preparation": "toasted",
+        "calories_per_unit": 120.0,
+        "calories_per_cup": 240.0
+      },
+      {
+        "unit": "cup",
+        "quantity": "1",
+        "name": "Lettuce",
+        "preparation": "shredded",
+        "calories_per_unit": 5.0,
+        "calories_per_cup": 5.0
+      },
+      {
+        "unit": "cup",
+        "quantity": "1",
+        "name": "Tomatoes",
+        "preparation": "sliced",
+        "calories_per_unit": 22.0,
+        "calories_per_cup": 22.0
+      },
+      {
+        "unit": "cup",
+        "quantity": "1",
+        "name": "Pickles",
+        "preparation": "sliced",
+        "calories_per_unit": 4.0,
+        "calories_per_cup": 4.0
+      },
+      {
+        "unit": "cup",
+        "quantity": "1",
+        "name": "Onions",
+        "preparation": "sliced",
+        "calories_per_unit": 44.0,
+        "calories_per_cup": 44.0
+      },
+      {
+        "unit": "cup",
+        "quantity": "0.5",
+        "name": "Secret sauce",
+        "preparation": "for flavor",
+        "calories_per_unit": 100.0,
+        "calories_per_cup": 200.0
+      },
+      {
+        "unit": "cup",
+        "quantity": "4",
+        "name": "Fries",
+        "preparation": "for serving",
+        "calories_per_unit": 365.0,
+        "calories_per_cup": 365.0
+      }
+    ]
+  }
+}

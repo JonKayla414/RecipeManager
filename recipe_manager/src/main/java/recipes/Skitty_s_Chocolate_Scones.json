@@ -1,0 +1,92 @@
+{"recipe": {
+  "cook_time": "1 minutes",
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+      "In a large bowl, whisk together flour, sugar, baking powder, salt, and cocoa powder.",
+      "Cut in the cold butter until the mixture resembles coarse crumbs.",
+      "Stir in chocolate chips.",
+      "In a separate bowl, mix together the milk and vanilla extract.",
+      "Add the wet ingredients to the dry ingredients and mix until just combined.",
+      "Turn the dough onto a floured surface and gently knead a few times until it comes together.",
+      "Pat the dough into a circle about 1-inch thick, then cut into wedges.",
+      "Place on a baking sheet lined with parchment paper.",
+      "Bake for 15-20 minutes or until a toothpick comes out clean."
+  ],
+  "servings": 4,
+  "prep_time": "20 minutes",
+  "name": "Skitty's Chocolate Scones",
+  "ingredients": [
+    {
+      "calories_per_cup": 227.0,
+      "unit": "cup",
+      "quantity": "2.0",
+      "name": "All purpose flour",
+      "calories_per_unit": 455.0,
+      "preparation": ""
+    },
+    {
+      "calories_per_cup": 9.0,
+      "unit": "cup",
+      "quantity": "1",
+      "name": "Granulated sugar",
+      "calories_per_unit": 9.0,
+      "preparation": ""
+    },
+    {
+      "calories_per_cup": 9.0,
+      "unit": "cup",
+      "quantity": "1",
+      "name": "Baking powder",
+      "calories_per_unit": 0.0,
+      "preparation": "for marinating"
+    },
+    {
+      "calories_per_cup": 8.0,
+      "unit": "cup",
+      "quantity": "1",
+      "name": "Butter",
+      "calories_per_unit": 10.0,
+      "preparation": "for cooking"
+    },
+    {
+      "calories_per_cup": 10.0,
+      "unit": "pcs",
+      "quantity": "3",
+      "name": "Milk",
+      "calories_per_unit": 10.0,
+      "preparation": "for flavor"
+    },
+    {
+      "calories_per_cup": 24.0,
+      "unit": "tsp",
+      "quantity": "1",
+      "name": "Salt",
+      "calories_per_unit": 5.0,
+      "preparation": "to taste"
+    },
+    {
+      "calories_per_cup": 32.0,
+      "unit": "cup",
+      "quantity": "2",
+      "name": "Chocolate",
+      "calories_per_unit": 4.0,
+      "preparation": "melted"
+    },
+    {
+      "calories_per_cup": 64.0,
+      "unit": "tbsp",
+      "quantity": "1",
+      "name": "Vanilla extract",
+      "calories_per_unit": 4.0,
+      "preparation": "sliced"
+    },
+    {
+      "calories_per_cup": 96.0,
+      "unit": "tbsp",
+      "quantity": "2",
+      "name": "Cooking oil",
+      "calories_per_unit": 12.0,
+      "preparation": "for sautéing"
+    }
+  ]
+}}

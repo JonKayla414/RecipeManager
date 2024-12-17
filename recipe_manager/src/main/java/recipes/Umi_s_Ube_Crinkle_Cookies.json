@@ -1,0 +1,90 @@
+{"recipe": {
+  "cook_time": "15 minutes",
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Line a baking sheet with parchment paper.",
+    "In a bowl, whisk together the flour, baking powder, and salt.",
+    "In a separate large bowl, beat the softened butter and granulated sugar until light and fluffy.",
+    "Add the eggs, one at a time, mixing well after each addition. Then, mix in the ube halaya and vanilla extract until fully combined.",
+    "Gradually add the dry ingredients to the wet ingredients, mixing until a dough forms.",
+    "Roll the dough into 1-inch balls, then coat each ball in powdered sugar.",
+    "Place the dough balls on the prepared baking sheet, spaced about 2 inches apart.",
+    "Bake for 10-12 minutes, or until the cookies have crinkled and are slightly firm around the edges.",
+    "Sprinkle Remaining  Powder Sugar until desired",
+    "Enjoy!"
+  ],
+  "servings": 24,
+  "prep_time": "1 hours",
+  "name": "Umi's Ube Crinkle Cookies",
+  "ingredients": [
+    {
+      "calories_per_cup": 0.7608155108399935,
+      "unit": "g",
+      "quantity": 180,
+      "name": "All Purpose Flour",
+      "calories_per_unit": 2.83
+    },
+    {
+      "calories_per_cup": 0.02083333395421505,
+      "unit": "tsp",
+      "quantity": 1,
+      "name": "Baking Powder",
+      "calories_per_unit": 2
+    },
+    {
+      "calories_per_cup": 0.0052083334885537624,
+      "unit": "tsp",
+      "quantity": 0.25,
+      "name": "Salt",
+      "calories_per_unit": 1
+    },
+    {
+      "calories_per_cup": 814,
+      "unit": "cup",
+      "quantity": 0.5,
+      "name": "Unsalted Butter",
+      "calories_per_unit": 814
+    },
+    {
+      "calories_per_cup": 800,
+      "unit": "cup",
+      "quantity": 1,
+      "name": "Granulated Sugar",
+      "calories_per_unit": 800
+    },
+    {
+      "calories_per_cup": 2,
+      "unit": "pcs",
+      "quantity": 2,
+      "name": "Eggs",
+      "calories_per_unit": 140
+    },
+    {
+      "calories_per_cup": 260,
+      "unit": "cup",
+      "quantity": 0.5,
+      "name": "Ube Halaya",
+      "calories_per_unit": 260
+    },
+    {
+      "calories_per_cup": 0.02083333395421505,
+      "unit": "tsp",
+      "quantity": 1,
+      "name": "Vanilla Extract",
+      "calories_per_unit": 12
+    },
+    {
+      "calories_per_cup": 230,
+      "unit": "cup",
+      "quantity": 1.5,
+      "name": "Powdered Sugar",
+      "calories_per_unit": 230
+    },
+    {
+      "calories_per_cup": 0.02083333395421505,
+      "unit": "tsp",
+      "quantity": 1,
+      "name": "Ube Extract",
+      "calories_per_unit": 2
+    }
+  ]
+}}

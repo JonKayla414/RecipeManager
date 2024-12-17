@@ -1,0 +1,711 @@
+**SAMPLE OUTPUT FOR SteppingStone6_RecipeBox.java**
+
+
+Menu
+1. Add Recipe
+2. Print All Recipe Details
+3. Print Selected Recipe
+4. Quit (or press 'q' to quit)
+1
+Menu 1 aelected.
+
+ADD RECIPE MENU SELECTED
+Please enter the recipe name: 
+Pizza
+Enter the number of servings (as an integer): 
+8
+Enter the preparation time (in minutes): 
+30
+Enter the cook time (in minutes): 
+45
+Would you like to enter an ingredient: (y or n)
+y
+Enter the ingredient name: 
+dough
+Enter the quantity (as a float): 
+3
+Enter the unit of measurement (OPTIONS: 'cup', 'tbsp', 'tsp', 'pcs', 'g', 'kg', 'l', and 'ml'): 
+cup
+Enter the preparation method (or leave blank): 
+rolled
+You have entered the following for preperation: rolled
+ Is this correct?
+y
+Enter the calories per unit (as a double): 
+23
+Would you like to enter an ingredient: (y or n)
+y
+Enter the ingredient name: 
+tomato sauce
+Enter the quantity (as a float): 
+2
+Enter the unit of measurement (OPTIONS: 'cup', 'tbsp', 'tsp', 'pcs', 'g', 'kg', 'l', and 'ml'): 
+cup
+Enter the preparation method (or leave blank): 
+
+You have entered the following for preperation: 
+ Is this correct?
+y
+Enter the calories per unit (as a double): 
+23
+Would you like to enter an ingredient: (y or n)
+y
+Enter the ingredient name: 
+cheese
+Enter the quantity (as a float): 
+2
+Enter the unit of measurement (OPTIONS: 'cup', 'tbsp', 'tsp', 'pcs', 'g', 'kg', 'l', and 'ml'): 
+cup
+Enter the preparation method (or leave blank): 
+shredded
+You have entered the following for preperation: shredded
+ Is this correct?
+y
+Enter the calories per unit (as a double): 
+32
+Would you like to enter an ingredient: (y or n)
+y
+Enter the ingredient name: 
+olives
+Enter the quantity (as a float): 
+1
+Enter the unit of measurement (OPTIONS: 'cup', 'tbsp', 'tsp', 'pcs', 'g', 'kg', 'l', and 'ml'): 
+cup
+Enter the preparation method (or leave blank): 
+sliced
+You have entered the following for preperation: sliced
+ Is this correct?
+y
+Enter the calories per unit (as a double): 
+11
+Would you like to enter an ingredient: (y or n)
+n
+There are currently 0 instructions.
+Would you like to add an instruction? (y/n)
+y
+Please enter the instruction: 
+place dough and roll it out
+You have entered: place dough and roll it out
+Is this correct? (y/n)
+y
+There are currently 1 instructions.
+Would you like to add an instruction? (y/n)
+y
+Please enter the instruction: 
+add sauce
+You have entered: add sauce
+Is this correct? (y/n)
+y
+There are currently 2 instructions.
+Would you like to add an instruction? (y/n)
+y
+Please enter the instruction: 
+add toppings
+You have entered: add toppings
+Is this correct? (y/n)
+y
+There are currently 3 instructions.
+Would you like to add an instruction? (y/n)
+y
+Please enter the instruction: 
+bake fore 375 degrees f.
+You have entered: bake fore 375 degrees f.
+Is this correct? (y/n)
+y
+There are currently 4 instructions.
+Would you like to add an instruction? (y/n)
+n
+Done adding instructions.
+You have entered 4 Ingredients for Pizza.
+ Please see the recipe you have entered.
+=================================================================================
+Recipe Name: Pizza
+Servings: 8
+Preparation Time: 30 min
+Cooking Time: 45 min
+Total Calories: 190.0
+=================================================================================
+Ingredients:
+-----------------------------------------------------------------------------------------------------
+| #   | Ingredient Name | Quantity   | Unit       | Preparation     | Total Calories  | Calories Per Unit |
+-----------------------------------------------------------------------------------------------------
+| 1   | dough           | 3.00       | CUP        | rolled          | 69.00           |  23.00           |
+| 2   | tomato sauce    | 2.00       | CUP        |                 | 46.00           |  23.00           |
+| 3   | cheese          | 2.00       | CUP        | shredded        | 64.00           |  32.00           |
+| 4   | olives          | 1.00       | CUP        | sliced          | 11.00           |  11.00           |
+-----------------------------------------------------------------------------------------------------
+
+Instructions:
+1. place dough and roll it out
+2. add sauce
+3. add toppings
+4. bake fore 375 degrees f.
+Menu
+1. Add Recipe
+2. Print All Recipe Details
+3. Print Selected Recipe
+4. Quit (or press 'q' to quit)
+2
+Menu 2 aelected.
+
+PRINT ALL RECIPE DETAILS MENU SELECTED
+There are 1 recipes recorded.
+=================================================================================
+1.     Pizza
+=================================================================================
+=================================================================================
+Recipe Name: Pizza
+Servings: 8
+Preparation Time: 30 min
+Cooking Time: 45 min
+Total Calories: 190.0
+=================================================================================
+Ingredients:
+-----------------------------------------------------------------------------------------------------
+| #   | Ingredient Name | Quantity   | Unit       | Preparation     | Total Calories  | Calories Per Unit |
+-----------------------------------------------------------------------------------------------------
+| 1   | dough           | 3.00       | CUP        | rolled          | 69.00           |  23.00           |
+| 2   | tomato sauce    | 2.00       | CUP        |                 | 46.00           |  23.00           |
+| 3   | cheese          | 2.00       | CUP        | shredded        | 64.00           |  32.00           |
+| 4   | olives          | 1.00       | CUP        | sliced          | 11.00           |  11.00           |
+-----------------------------------------------------------------------------------------------------
+
+Instructions:
+1. place dough and roll it out
+2. add sauce
+3. add toppings
+4. bake fore 375 degrees f.
+Menu
+1. Add Recipe
+2. Print All Recipe Details
+3. Print Selected Recipe
+4. Quit (or press 'q' to quit)
+3
+Menu 3 aelected.
+
+PRINT SELECTED RECIPE  MENU SELECTED
+There are 0 recipes recorded.
+=================================================================================
+0    Pizza
+Please enter the number for the recipe you want to select for printing.
+valid numbers are 0-0
+0
+Recipe index 0 found in recipes!
+
+=================================================================================
+=================================================================================
+Recipe Name: Pizza
+Servings: 8
+Preparation Time: 30 min
+Cooking Time: 45 min
+Total Calories: 190.0
+=================================================================================
+Ingredients:
+-----------------------------------------------------------------------------------------------------
+| #   | Ingredient Name | Quantity   | Unit       | Preparation     | Total Calories  | Calories Per Unit |
+-----------------------------------------------------------------------------------------------------
+| 1   | dough           | 3.00       | CUP        | rolled          | 69.00           |  23.00           |
+| 2   | tomato sauce    | 2.00       | CUP        |                 | 46.00           |  23.00           |
+| 3   | cheese          | 2.00       | CUP        | shredded        | 64.00           |  32.00           |
+| 4   | olives          | 1.00       | CUP        | sliced          | 11.00           |  11.00           |
+-----------------------------------------------------------------------------------------------------
+
+Instructions:
+1. place dough and roll it out
+2. add sauce
+3. add toppings
+4. bake fore 375 degrees f.
+=================================================================================
+Menu
+1. Add Recipe
+2. Print All Recipe Details
+3. Print Selected Recipe
+4. Quit (or press 'q' to quit)
+4
+Menu 4 aelected.
+Preparation Time: 30 min
+Cooking Time: 45 min
+Total Calories: 190.0
+=================================================================================
+Ingredients:
+-----------------------------------------------------------------------------------------------------
+| #   | Ingredient Name | Quantity   | Unit       | Preparation     | Total Calories  | Calories Per Unit |
+-----------------------------------------------------------------------------------------------------
+| 1   | dough           | 3.00       | CUP        | rolled          | 69.00           |  23.00           |
+| 2   | tomato sauce    | 2.00       | CUP        |                 | 46.00           |  23.00           |
+| 3   | cheese          | 2.00       | CUP        | shredded        | 64.00           |  32.00           |
+| 4   | olives          | 1.00       | CUP        | sliced          | 11.00           |  11.00           |
+-----------------------------------------------------------------------------------------------------
+
+Instructions:
+1. place dough and roll it out
+2. add sauce
+3. add toppings
+4. bake fore 375 degrees f.
+=================================================================================
+Menu
+1. Add Recipe
+2. Print All Recipe Details
+3. Print Selected Recipe
+4. Quit (or press 'q' to quit)
+4
+Menu 4 aelected.
+Cooking Time: 45 min
+Total Calories: 190.0
+=================================================================================
+Ingredients:
+-----------------------------------------------------------------------------------------------------
+| #   | Ingredient Name | Quantity   | Unit       | Preparation     | Total Calories  | Calories Per Unit |
+-----------------------------------------------------------------------------------------------------
+| 1   | dough           | 3.00       | CUP        | rolled          | 69.00           |  23.00           |
+| 2   | tomato sauce    | 2.00       | CUP        |                 | 46.00           |  23.00           |
+| 3   | cheese          | 2.00       | CUP        | shredded        | 64.00           |  32.00           |
+| 4   | olives          | 1.00       | CUP        | sliced          | 11.00           |  11.00           |
+-----------------------------------------------------------------------------------------------------
+
+Instructions:
+1. place dough and roll it out
+2. add sauce
+3. add toppings
+4. bake fore 375 degrees f.
+=================================================================================
+Menu
+1. Add Recipe
+2. Print All Recipe Details
+3. Print Selected Recipe
+4. Quit (or press 'q' to quit)
+4
+Menu 4 aelected.
+Total Calories: 190.0
+=================================================================================
+Ingredients:
+-----------------------------------------------------------------------------------------------------
+| #   | Ingredient Name | Quantity   | Unit       | Preparation     | Total Calories  | Calories Per Unit |
+-----------------------------------------------------------------------------------------------------
+| 1   | dough           | 3.00       | CUP        | rolled          | 69.00           |  23.00           |
+| 2   | tomato sauce    | 2.00       | CUP        |                 | 46.00           |  23.00           |
+| 3   | cheese          | 2.00       | CUP        | shredded        | 64.00           |  32.00           |
+| 4   | olives          | 1.00       | CUP        | sliced          | 11.00           |  11.00           |
+-----------------------------------------------------------------------------------------------------
+
+Instructions:
+1. place dough and roll it out
+2. add sauce
+3. add toppings
+4. bake fore 375 degrees f.
+=================================================================================
+Menu
+1. Add Recipe
+2. Print All Recipe Details
+3. Print Selected Recipe
+4. Quit (or press 'q' to quit)
+4
+Menu 4 aelected.
+Ingredients:
+-----------------------------------------------------------------------------------------------------
+| #   | Ingredient Name | Quantity   | Unit       | Preparation     | Total Calories  | Calories Per Unit |
+-----------------------------------------------------------------------------------------------------
+| 1   | dough           | 3.00       | CUP        | rolled          | 69.00           |  23.00           |
+| 2   | tomato sauce    | 2.00       | CUP        |                 | 46.00           |  23.00           |
+| 3   | cheese          | 2.00       | CUP        | shredded        | 64.00           |  32.00           |
+| 4   | olives          | 1.00       | CUP        | sliced          | 11.00           |  11.00           |
+-----------------------------------------------------------------------------------------------------
+
+Instructions:
+1. place dough and roll it out
+2. add sauce
+3. add toppings
+4. bake fore 375 degrees f.
+=================================================================================
+Menu
+1. Add Recipe
+2. Print All Recipe Details
+3. Print Selected Recipe
+4. Quit (or press 'q' to quit)
+4
+Menu 4 aelected.
+| #   | Ingredient Name | Quantity   | Unit       | Preparation     | Total Calories  | Calories Per Unit |
+-----------------------------------------------------------------------------------------------------
+| 1   | dough           | 3.00       | CUP        | rolled          | 69.00           |  23.00           |
+| 2   | tomato sauce    | 2.00       | CUP        |                 | 46.00           |  23.00           |
+| 3   | cheese          | 2.00       | CUP        | shredded        | 64.00           |  32.00           |
+| 4   | olives          | 1.00       | CUP        | sliced          | 11.00           |  11.00           |
+-----------------------------------------------------------------------------------------------------
+
+Instructions:
+1. place dough and roll it out
+2. add sauce
+3. add toppings
+4. bake fore 375 degrees f.
+=================================================================================
+Menu
+1. Add Recipe
+2. Print All Recipe Details
+3. Print Selected Recipe
+4. Quit (or press 'q' to quit)
+4
+Menu 4 aelected.
+| 2   | tomato sauce    | 2.00       | CUP        |                 | 46.00           |  23.00           |
+| 3   | cheese          | 2.00       | CUP        | shredded        | 64.00           |  32.00           |
+| 4   | olives          | 1.00       | CUP        | sliced          | 11.00           |  11.00           |
+-----------------------------------------------------------------------------------------------------
+
+Instructions:
+1. place dough and roll it out
+2. add sauce
+3. add toppings
+4. bake fore 375 degrees f.
+=================================================================================
+Menu
+1. Add Recipe
+2. Print All Recipe Details
+3. Print Selected Recipe
+4. Quit (or press 'q' to quit)
+4
+Menu 4 aelected.
+| 3   | cheese          | 2.00       | CUP        | shredded        | 64.00           |  32.00           |
+| 4   | olives          | 1.00       | CUP        | sliced          | 11.00           |  11.00           |
+-----------------------------------------------------------------------------------------------------
+
+Instructions:
+1. place dough and roll it out
+2. add sauce
+3. add toppings
+4. bake fore 375 degrees f.
+=================================================================================
+Menu
+1. Add Recipe
+2. Print All Recipe Details
+3. Print Selected Recipe
+4. Quit (or press 'q' to quit)
+4
+Menu 4 aelected.
+| 4   | olives          | 1.00       | CUP        | sliced          | 11.00           |  11.00           |
+-----------------------------------------------------------------------------------------------------
+
+Instructions:
+1. place dough and roll it out
+2. add sauce
+3. add toppings
+4. bake fore 375 degrees f.
+=================================================================================
+Menu
+1. Add Recipe
+2. Print All Recipe Details
+3. Print Selected Recipe
+4. Quit (or press 'q' to quit)
+4
+Menu 4 aelected.
+Instructions:
+1. place dough and roll it out
+2. add sauce
+3. add toppings
+4. bake fore 375 degrees f.
+=================================================================================
+Menu
+1. Add Recipe
+2. Print All Recipe Details
+3. Print Selected Recipe
+4. Quit (or press 'q' to quit)
+4
+Menu 4 aelected.
+Menu
+1. Add Recipe
+2. Print All Recipe Details
+3. Print Selected Recipe
+4. Quit (or press 'q' to quit)
+4
+Menu 4 aelected.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**SteppingStone5_RecipeTest.java sample output** 
+
+Recipe Name: Ramen
+Servings: 2
+Prep Time: 10 min
+Cook Time: 5 min
+Total Calories: 200.0
+Ingredients:
+- Noodles: 1.0 CUP (200.0 calories)
+Instructions:
+1. Boil noodles
+2. Add seasoning
+
+Recipe Name: Pizza
+Servings: 4
+Prep Time: 20 min
+Cook Time: 30 min
+Total Calories: 20.0
+Ingredients:
+- Anchovies: 2.0 PCS (20.0 calories)
+Instructions:
+1. Preheat oven
+2. Bake pizza
+
+**Recipe_Test ***
+
+Please enter the recipe name: 
+Ramen
+Enter the number of servings (as an integer): 
+4
+Enter the preparation time (in minutes): 
+30
+Enter the cook time (in minutes): 
+30
+Would you like to enter an ingredient: (y or n)
+y
+Enter the ingredient name: 
+Ramen Noodles
+Enter the quantity (as a float): 
+4
+Enter the unit of measurement (OPTIONS: 'cup', 'tbsp', 'tsp', 'pcs', 'g', 'kg', 'l', and 'ml'): 
+cup
+Enter the preparation method (or leave blank): 
+
+You have entered the following for preperation: 
+ Is this correct?
+y
+Enter the calories per unit (as a double): 
+350
+Would you like to enter an ingredient: (y or n)
+y
+Enter the ingredient name: 
+chicken broth
+Enter the quantity (as a float): 
+8
+Enter the unit of measurement (OPTIONS: 'cup', 'tbsp', 'tsp', 'pcs', 'g', 'kg', 'l', and 'ml'): 
+cup
+Enter the preparation method (or leave blank): 
+
+You have entered the following for preperation: 
+ Is this correct?
+y
+Enter the calories per unit (as a double): 
+50
+Would you like to enter an ingredient: (y or n)
+y
+Enter the ingredient name: 
+Egg
+Enter the quantity (as a float): 
+4
+Enter the unit of measurement (OPTIONS: 'cup', 'tbsp', 'tsp', 'pcs', 'g', 'kg', 'l', and 'ml'): 
+pcs
+Enter the preparation method (or leave blank): 
+boiled
+You have entered the following for preperation: boiled
+ Is this correct?
+y
+Enter the calories per unit (as a double): 
+20
+Would you like to enter an ingredient: (y or n)
+y
+Enter the ingredient name: 
+nori
+Enter the quantity (as a float): 
+4
+Enter the unit of measurement (OPTIONS: 'cup', 'tbsp', 'tsp', 'pcs', 'g', 'kg', 'l', and 'ml'): 
+pcs
+Enter the preparation method (or leave blank): 
+
+You have entered the following for preperation: 
+ Is this correct?
+y
+Enter the calories per unit (as a double): 
+20
+Would you like to enter an ingredient: (y or n)
+n
+There are currently 0 instructions.
+Would you like to add an instruction? (y/n)
+y
+Please enter the instruction: 
+Bring chicken broth to boil
+You have entered: Bring chicken broth to boil
+Is this correct? (y/n)
+y
+There are currently 1 instructions.
+Would you like to add an instruction? (y/n)
+y
+Please enter the instruction: 
+Add Ramen and Eggs
+You have entered: Add Ramen and Eggs
+Is this correct? (y/n)
+y
+There are currently 2 instructions.
+Would you like to add an instruction? (y/n)
+y
+Please enter the instruction: 
+Take off stove and split up in 4 different bowls
+You have entered: Take off stove and split up in 4 different bowls
+Is this correct? (y/n)
+y
+There are currently 3 instructions.
+Would you like to add an instruction? (y/n)
+y
+Please enter the instruction: 
+garnish with toppings
+You have entered: garnish with toppings
+Is this correct? (y/n)
+y
+There are currently 4 instructions.
+Would you like to add an instruction? (y/n)
+n
+Done adding instructions.
+You have entered 4 Ingredients for Ramen.
+ Please see the recipe you have entered.
+=================================================================================
+Recipe Name: Ramen
+Servings: 4
+Preparation Time: 30 min
+Cooking Time: 30 min
+Total Calories: 1840.0
+=================================================================================
+Ingredients:
+-----------------------------------------------------------------------------------------------------
+| #   | Ingredient Name | Quantity   | Unit       | Preparation     | Total Calories  | Calories Per Unit |
+-----------------------------------------------------------------------------------------------------
+| 1   | Ramen Noodles   | 4.00       | CUP        |                 | 1400.00         |  350.00          |
+| 2   | chicken broth   | 8.00       | CUP        |                 | 400.00          |  50.00           |
+| 3   | Egg             | 4.00       | PCS        | boiled          | 20.00           |  20.00           |
+| 4   | nori            | 4.00       | PCS        |                 | 20.00           |  20.00           |
+-----------------------------------------------------------------------------------------------------
+
+Instructions:
+1. Bring chicken broth to boil
+2. Add Ramen and Eggs
+3. Take off stove and split up in 4 different bowls
+4. garnish with toppings
+
+**SteppingStone4_5_Loops_with_recipe.java sample output**
+
+
+
+
+Please enter the recipe name: 
+Peanut Butter Jelly
+Enter the number of servings (as an integer): 
+2
+Enter the preparation time (in minutes): 
+5
+Enter the cook time (in minutes): 
+5
+Would you like to enter an ingredient: (y or n)
+y
+Enter the ingredient name: 
+Peanut Butter 
+Enter the quantity (as a float): 
+1
+Enter the unit of measurement (OPTIONS: 'cup', 'tbsp', 'tsp', 'pcs', 'g', 'kg', 'l', and 'ml'): 
+cup
+Enter the preparation method (or leave blank): 
+
+You have entered the following for preperation: 
+ Is this correct?
+y
+Enter the calories per unit (as a double): 
+20
+Would you like to enter an ingredient: (y or n)
+y
+Enter the ingredient name: 
+Sourdough Bread
+Enter the quantity (as a float): 
+4
+Enter the unit of measurement (OPTIONS: 'cup', 'tbsp', 'tsp', 'pcs', 'g', 'kg', 'l', and 'ml'): 
+pcs
+Enter the preparation method (or leave blank): 
+
+You have entered the following for preperation: 
+ Is this correct?
+y
+Enter the calories per unit (as a double): 
+10
+Would you like to enter an ingredient: (y or n)
+y
+Enter the ingredient name: 
+jelly
+Enter the quantity (as a float): 
+1
+Enter the unit of measurement (OPTIONS: 'cup', 'tbsp', 'tsp', 'pcs', 'g', 'kg', 'l', and 'ml'): 
+cup
+Enter the preparation method (or leave blank): 
+
+You have entered the following for preperation: 
+ Is this correct?
+y
+Enter the calories per unit (as a double): 
+10
+Would you like to enter an ingredient: (y or n)
+n
+There are currently 0 instructions.
+Would you like to add an instruction? (y/n)
+y
+Please enter the instruction: 
+Get a slice of bread 
+You have entered: Get a slice of bread
+Is this correct? (y/n)
+y
+There are currently 1 instructions.
+Would you like to add an instruction? (y/n)
+y
+Please enter the instruction: 
+Add half the peanut butter on slice
+You have entered: Add half the peanut butter on slice
+Is this correct? (y/n)
+y
+There are currently 2 instructions.
+Would you like to add an instruction? (y/n)
+y
+Please enter the instruction: 
+Add half the jelly on the same slice
+You have entered: Add half the jelly on the same slice
+Is this correct? (y/n)
+y
+There are currently 3 instructions.
+Would you like to add an instruction? (y/n)
+y
+Please enter the instruction: 
+toast until golden brown. serve
+You have entered: toast until golden brown. serve
+Is this correct? (y/n)
+y
+There are currently 4 instructions.
+Would you like to add an instruction? (y/n)
+n
+Done adding instructions.
+
+You have entered 3 Ingredients for Peanut Butter Jelly.
+ Please see the recipe you have entered.
+=================================================================================
+Recipe Name: Peanut Butter Jelly
+Servings: 2
+Preparation Time: 5 min
+Cooking Time: 5 min
+Total Calories: 40.0
+=================================================================================
+Ingredients:
+-----------------------------------------------------------------------------------------------------
+| #   | Ingredient Name | Quantity   | Unit       | Preparation     | Total Calories  | Calories Per Unit |
+-----------------------------------------------------------------------------------------------------
+| 1   | Peanut Butter   | 1.00       | CUP        |                 | 20.00           |  20.00           |
+| 2   | Sourdough Bread | 4.00       | PCS        |                 | 10.00           |  10.00           |
+| 3   | jelly           | 1.00       | CUP        |                 | 10.00           |  10.00           |
+-----------------------------------------------------------------------------------------------------
+
+Instructions:
+1. Get a slice of bread
+2. Add half the peanut butter on slice
+3. Add half the jelly on the same slice
+4. toast until golden brown. serve
+

@@ -1,0 +1,32 @@
+{"recipe": {
+  "cook_time": "15 minutes",
+  "instructions": ["simmer"],
+  "servings": 4,
+  "prep_time": "30 minutes",
+  "name": "Sizzling Sisig",
+  "ingredients": [
+    {
+      "calories_per_cup": 217,
+      "unit": "kg",
+      "quantity": "0.5",
+      "name": "Pork Belly",
+      "calories_per_unit": 460,
+      "preparation": "cut into cubes"
+    },
+    {
+      "calories_per_cup": 105,
+      "unit": "g",
+      "quantity": "100",
+      "name": "Onions",
+      "calories_per_unit": 44,
+      "preparation": "finely chopped"
+    },
+    {
+      "calories_per_cup": 1216,
+      "unit": "tbsp",
+      "quantity": "2",
+      "name": "Soy Sauce",
+      "calories_per_unit": 152
+    }
+  ]
+}}

@@ -1,0 +1,124 @@
+{
+    "recipe": {
+      "name": "Kuya's Kaldereta",
+      "cook_time": "1 hour",
+      "prep_time": "30 minutes",
+      "servings": 6,
+      "instructions": [
+        "In a large pot, heat oil over medium heat and sauté the onions and garlic until fragrant.",
+        "Add the beef and cook until browned on all sides.",
+        "Pour in the tomato sauce and beef broth. Stir in the bay leaves and bring to a boil.",
+        "Reduce the heat to low and let it simmer for about 40 minutes, or until the beef is tender.",
+        "Add the carrots, bell peppers, and potatoes. Cook until the vegetables are tender.",
+        "Stir in the olives and season with salt and pepper to taste.",
+        "Serve hot with rice."
+      ],
+      "ingredients": [
+        {
+          "unit": "kg",
+          "quantity": "1",
+          "name": "Beef",
+          "preparation": "cut into cubes",
+          "calories_per_unit": 250.0,
+          "calories_per_cup": 1000.0
+        },
+        {
+          "unit": "g",
+          "quantity": "100",
+          "name": "Onions",
+          "preparation": "sliced",
+          "calories_per_unit": 0.4,
+          "calories_per_cup": 40.0
+        },
+        {
+          "unit": "pcs",
+          "quantity": "4",
+          "name": "Garlic",
+          "preparation": "minced cloves",
+          "calories_per_unit": 4.5,
+          "calories_per_cup": 72.0
+        },
+        {
+          "unit": "cup",
+          "quantity": "2",
+          "name": "Tomato sauce",
+          "preparation": "for sauce",
+          "calories_per_unit": 40.0,
+          "calories_per_cup": 160.0
+        },
+        {
+          "unit": "cup",
+          "quantity": "1",
+          "name": "Beef broth",
+          "preparation": "or water",
+          "calories_per_unit": 5.0,
+          "calories_per_cup": 5.0
+        },
+        {
+          "unit": "pcs",
+          "quantity": "2",
+          "name": "Bay leaves",
+          "preparation": "for flavor",
+          "calories_per_unit": 0.5,
+          "calories_per_cup": 1.5
+        },
+        {
+          "unit": "g",
+          "quantity": "100",
+          "name": "Carrots",
+          "preparation": "diced",
+          "calories_per_unit": 0.4,
+          "calories_per_cup": 40.0
+        },
+        {
+          "unit": "g",
+          "quantity": "100",
+          "name": "Bell peppers",
+          "preparation": "sliced",
+          "calories_per_unit": 0.3,
+          "calories_per_cup": 30.0
+        },
+        {
+          "unit": "g",
+          "quantity": "100",
+          "name": "Potatoes",
+          "preparation": "diced",
+          "calories_per_unit": 0.8,
+          "calories_per_cup": 80.0
+        },
+        {
+          "unit": "g",
+          "quantity": "50",
+          "name": "Olives",
+          "preparation": "sliced",
+          "calories_per_unit": 1.1,
+          "calories_per_cup": 110.0
+        },
+        {
+          "unit": "tsp",
+          "quantity": "1",
+          "name": "Salt",
+          "preparation": "to taste",
+          "calories_per_unit": 0.0,
+          "calories_per_cup": 0.0
+        },
+        {
+          "unit": "tsp",
+          "quantity": "1",
+          "name": "Black pepper",
+          "preparation": "to taste",
+          "calories_per_unit": 5.7,
+          "calories_per_cup": 91.2
+        },
+        {
+          "unit": "cup",
+          "quantity": "1",
+          "name": "Cooking oil",
+          "preparation": "for sautéing",
+          "calories_per_unit": 120.0,
+          "calories_per_cup": 1920.0
+        }
+      ]
+    }
+  }
+  

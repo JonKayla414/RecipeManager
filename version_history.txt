@@ -1,0 +1,103 @@
+Version History
+
+Version 1.0.0 (Beta) ----- (Current) December 15 2024
+Version 0.1.1 (Beta) ----- November 17, 2024
+Version 0.0.1 (Beta) ----- November 3, 2024
+
+---
+### (Current Release) Version 1.0.0  
+**Release Date:** December 15, 2024  
+
+#### Summary of Major Updates
+- **Refactored Internal Code for Optimization**: Significant improvements have been made to the internal code, streamlining functions and enhancing performance. This refactor aims to reduce redundancy and increase maintainability across the application.
+- **UI Layout Updates**: The user interface has been updated to provide a more consistent and visually appealing experience across all screens. The new layout ensures a more uniform and intuitive navigation process for users.
+- **Core Functionalities**: The Recipe Manager now includes the following key features:
+  - **Recipe Collection Management**: Efficiently handles multiple recipes, allowing users to easily load, add, and edit their recipes.
+  - **Recipe Details Display**: The UI now supports a more detailed view of individual recipes, showcasing ingredients, instructions, and nutritional information.
+  - **Add and Edit Recipe Functionality**: Users can easily create new recipes or modify existing ones using a seamless, user-friendly interface.
+  - **Persistent Recipe Storage**: Recipes are now stored and retrieved using JSON files, ensuring data integrity and accessibility.
+
+#### Supporting Files
+- **Dialogs and Views**:
+  - `AddRecipe`: Provides a dialog for adding new recipes to the collection.
+  - `EditRecipe`: Enables detailed editing of existing recipes.
+  - `RecipeDetailsView`: Displays the complete details of a selected recipe, including ingredients, instructions, and nutritional values.
+- **UI Components**:
+  - `RecipeManagerGUI`: The primary GUI responsible for handling the core user interface and interactions.
+  - `Home`: A welcoming screen that introduces users to the Recipe Manager.
+
+#### Code Reflection and Object-Oriented Design (OOD) Implementation
+- **Encapsulation**: Data such as recipe ingredients, instructions, and nutritional information are encapsulated within respective classes (e.g., `Recipe`, `Ingredient`), ensuring proper data management and integrity.
+- **Modularity**: The application was designed with modular components, each handling a specific task (e.g., recipe storage, UI display, recipe editing), improving code maintainability and scalability.
+- **Separation of Concerns**: The GUI, data management, and business logic are clearly separated into distinct components, which makes the system more maintainable and flexible for future updates.
+- ***For a detailed code review please refer to the ReadMe.md***
+
+#### Plans for Future Updates
+- **Database Integration**: Transition from JSON-based file storage to a more scalable database solution for recipe management, improving performance and reliability as the recipe collection grows.
+- **UI/UX Enhancements**: Further polish the graphical interface to make it more responsive and user-friendly. This includes refining button layouts, adding tooltips, and enhancing color schemes.
+- **Feedback and Bug Fixes**: Ongoing collection of user feedback to address any bugs or issues and ensure a smoother experience.
+- **Advanced Features**: Introduce advanced recipe management features, such as ingredient substitution suggestions and user rating systems, to make the application even more useful.
+
+---
+
+### Version 0.1.1 (Beta)  
+**Release Date:** November 17, 2024
+
+#### Summary of Major Updates
+- **Ingredient Class Refactor**: The `Ingredient` class now leverages enumerations for the unit of measurement, enhancing type safety and improving code readability. This required refactoring to ensure consistent integration across all functionalities that handle units.
+- **Core Functionalities**: The Recipe Manager maintains robust control over major components, including:
+  - **Ingredient**: Manages ingredient details, such as quantity, unit, preparation method, and calorie calculations.
+  - **Recipe**: Defines a complete recipe structure, incorporating ingredients, instructions, and nutritional details.
+  - **RecipeCollection**: Handles multiple recipes, enabling efficient storage and retrieval.
+  - **RecipeStorage**: Manages data persistence and retrieval for recipes.
+  - **RecipeManagerGUI**: Provides the main interface for user interaction, supporting features like adding and editing recipes.
+
+#### Supporting Files
+- **Dialogs and Views**:
+  - `AddIngredientDialog`, `AddIngredients`, and `AddInstructions`: Manage the user flow for adding new recipe components.
+  - `AddRecipe`: Facilitates the creation of new recipes.
+  - `EditIngredientDialog`: Enables detailed editing of ingredient properties.
+
+#### Plans for Future Updates
+- **UI/UX Enhancements**: Focus on improving the graphical interface for a more intuitive and consistent user experience.
+- **Feedback and Bug Fixes**: Continue to collect user feedback and address any reported bugs to enhance the program's stability and functionality.
+- **Graphical Consistency**: Refine the design elements to maintain a cohesive visual experience across all screens.
+
+---
+
+
+Version 0.0.1 (Beta)
+Release Date: November 3, 2024 
+
+Overview:
+This is the first beta release of the Recipe Manager application. This version introduces the foundational features and functionalities of the application, designed to assist users in managing their recipes effectively.
+
+Core Features:
+- **Ingredient Management**: Users can add, edit, and manage ingredients, capturing necessary details such as name, quantity, unit, preparation, and calorie information.
+- **Recipe Management**: Users can create new recipes by specifying the recipe name, associated ingredients, instructions, servings, preparation time, and cooking time.
+- **Recipe Collection**: The application maintains a collection of recipes, enabling users to store, retrieve, and delete recipes as needed.
+
+Object-Oriented Design (OOD) Principles:
+The Recipe Manager application follows several core principles of object-oriented design, utilizing a structured approach to software development:
+
+1. **Encapsulation**: 
+   - Each class (e.g., `Ingredient`, `Recipe`, `RecipeCollection`) encapsulates its own data and methods, promoting a clear structure and reducing complexity.
+   - For instance, the `Ingredient` class holds all relevant information about an ingredient, while the `Recipe` class manages a collection of ingredients and their corresponding instructions.
+
+2. **Abstraction**: 
+   - The application abstracts the complexities of recipe management by providing a user-friendly interface (UI) for users to interact with.
+   - The `RecipeManagerGUI` class simplifies interactions, hiding the underlying implementation details and allowing users to focus on managing their recipes.
+
+3. **Inheritance**: 
+   - While the current version does not implement extensive inheritance, the design allows for potential future extensions, where specialized classes could inherit from existing ones, enhancing code reuse.
+
+4. **Polymorphism**: 
+   - This principle allows for methods to be defined in a way that can operate on objects of different classes, which could be leveraged in future enhancements to the application.
+
+Current Limitations:
+- The user interface (UI) requires additional work to improve usability and aesthetic appeal. Future releases will focus on enhancing the UI for a better user experience.
+
+Next Steps:
+- Gather user feedback from the beta release to identify areas for improvement.
+- Implement additional features and refine the user interface in subsequent releases.
+

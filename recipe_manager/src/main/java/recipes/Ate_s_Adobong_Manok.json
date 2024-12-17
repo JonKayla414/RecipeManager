@@ -1,0 +1,87 @@
+{"recipe": {
+  "cook_time": "1 minutes",
+  "instructions": [
+    "In a pot, heat oil and sauté garlic and onion until fragrant.",
+    "Add the chicken pieces and cook until lightly browned.",
+    "Pour in soy sauce, vinegar, and water, then add bay leaves and black pepper.",
+    "Cover and simmer for 30-40 minutes until the chicken is tender and the sauce thickens.",
+    "Serve hot with rice."
+  ],
+  "servings": 4,
+  "prep_time": "20 minutes",
+  "name": "Ate's Adobong Manok",
+  "ingredients": [
+    {
+      "calories_per_cup": 0,
+      "unit": "G",
+      "quantity": 500,
+      "name": "Chicken",
+      "calories_per_unit": 0,
+      "preparation": "cut into pieces"
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "CUP",
+      "quantity": 1,
+      "name": "Soy sauce",
+      "calories_per_unit": 0,
+      "preparation": "for marinating"
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "CUP",
+      "quantity": 1,
+      "name": "Vinegar",
+      "calories_per_unit": 0,
+      "preparation": "for marinating"
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "CUP",
+      "quantity": 1,
+      "name": "Water",
+      "calories_per_unit": 0,
+      "preparation": "for cooking"
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "PCS",
+      "quantity": 3,
+      "name": "Bay leaves",
+      "calories_per_unit": 0,
+      "preparation": "for flavor"
+    },
+    {
+      "calories_per_cup": 11999.999374151263,
+      "unit": "G",
+      "quantity": 1,
+      "name": "Black pepper",
+      "calories_per_unit": 50,
+      "preparation": "to taste"
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "TBSP",
+      "quantity": 2,
+      "name": "Garlic",
+      "calories_per_unit": 0,
+      "preparation": "minced"
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "TBSP",
+      "quantity": 1,
+      "name": "Onion",
+      "calories_per_unit": 0,
+      "preparation": "sliced"
+    },
+    {
+      "calories_per_cup": 0,
+      "unit": "TBSP",
+      "quantity": 2,
+      "name": "Cooking oil",
+      "calories_per_unit": 0,
+      "preparation": "for sautéing"
+    }
+  ]
+}}

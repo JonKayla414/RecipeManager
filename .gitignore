@@ -1,0 +1,6 @@
+# User-Specific Configs
+.vscode
+.idea
+
+#File Path To Target
+recipe_manager/target/

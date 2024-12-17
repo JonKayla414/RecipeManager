@@ -1,0 +1,91 @@
+{"recipe": {
+  "cook_time": "20 minutes",
+  "instructions": [
+    "In a large bowl, combine the ground pork, carrots, green onions, garlic, soy sauce, salt, and pepper.",
+    "Mix well until all ingredients are evenly combined.",
+    "Take a lumpia wrapper and place a spoonful of the filling near one edge.",
+    "Fold the sides of the wrapper over the filling, then roll it tightly to enclose the filling.",
+    "Seal the edge with a little water.",
+    "Heat oil in a frying pan over medium heat.",
+    "Fry the lumpia in batches until golden brown and crispy, about 3-5 minutes.",
+    "Remove and drain on paper towels before serving.",
+    "Serve with Lola's sweet chili sauce!"
+  ],
+  "servings": 4,
+  "prep_time": "40 minutes",
+  "name": "Lola's Lumpia",
+  "ingredients": [
+    {
+      "calories_per_cup": 20.0,
+      "unit": "g",
+      "quantity": "500",
+      "name": "Ground pork",
+      "calories_per_unit": 20.0,
+      "preparation": "freshly ground"
+    },
+    {
+      "calories_per_cup": 50.0,
+      "unit": "g",
+      "quantity": "100",
+      "name": "Carrots",
+      "calories_per_unit": 70.0,
+      "preparation": "finely grated"
+    },
+    {
+      "calories_per_cup":7.0,
+      "unit": "g",
+      "quantity": "50",
+      "name": "Green onions",
+      "calories_per_unit": 8.0,
+      "preparation": "finely chopped"
+    },
+    {
+      "calories_per_cup": 20.0,
+      "unit": "pcs",
+      "quantity": "2",
+      "name": "Garlic",
+      "calories_per_unit": 4,
+      "preparation": "minced cloves"
+    },
+    {
+      "calories_per_cup": 40.0,
+      "unit": "tbsp",
+      "quantity": "2",
+      "name": "Soy sauce",
+      "calories_per_unit": 5.0,
+      "preparation": "for seasoning"
+    },
+    {
+      "calories_per_cup": 8.0,
+      "unit": "tsp",
+      "quantity": "1",
+      "name": "Salt",
+      "calories_per_unit": 9.0,
+      "preparation": "to taste"
+    },
+    {
+      "calories_per_cup": 240.0,
+      "unit": "tsp",
+      "quantity": "1",
+      "name": "Black pepper",
+      "calories_per_unit": 5.0,
+      "preparation": "to taste"
+    },
+    {
+      "calories_per_cup": 6.0,
+      "unit": "pcs",
+      "quantity": "20",
+      "name": "Lumpia wrappers",
+      "calories_per_unit": 10.0,
+      "preparation": "for wrapping"
+    },
+    {
+      "calories_per_cup": 60.0,
+      "unit": "cup",
+      "quantity": "2",
+      "name": "Cooking oil",
+      "calories_per_unit": 120.0,
+      "preparation": "for frying"
+    }
+  ]
+}}
